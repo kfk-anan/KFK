@@ -316,20 +316,29 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.skills-content .right .html::before{
-    width: 90%;
-}
-.skills-content .right .css::before{
-    width: 60%;
-}
-.skills-content .right .js::before{
-    width: 80%;
-}
-.skills-content .right .php::before{
+.skills-content .right .fed::before{
     width: 50%;
 }
+.skills-content .right .bed::before{
+    width: 60%;
+}
+.skills-content .right .wd::before{
+    width: 80%;
+}
+.skills-content .right .lang::before{
+    width: 30%;
+}
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 45%;
+}
+.skills-content .right .html::before{
+    width: 65%;
+}
+.skills-content .right .wpo::before{
+    width: 50%;
+}
+.skills-content .right .other::before{
+    width: 60%;
 }
 
 /*Projects Styling starts*/
